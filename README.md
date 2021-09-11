@@ -104,4 +104,5 @@
 `![이미지연습](http://kyrieko.dothome.co.kr/images/first.jpg)`
 
 ![이미지연습](http://kyrieko.dothome.co.kr/images/first.jpg)
-333113.png
+
+![레포에 있는 이미지](./images/cat.jpg){
