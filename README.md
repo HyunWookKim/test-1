@@ -97,3 +97,10 @@
 [이지퍼블리싱](http://www.easysub.co.kr)
 
 [구글](https://goopgle.com, "검색사이트")
+
+
+## 이미지 추가하기
+
+`![이미지연습](http://kyrieko.dothome.co.kr/images/first.jpg)`
+
+![이미지연습](http://kyrieko.dothome.co.kr/images/first.jpg)
