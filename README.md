@@ -70,3 +70,14 @@
 
 예를 들어 라애과 같이
 `function add(x, y) { return x + y; }`
+
+여러줄의 소스코드는 **백쿼트 세개(```)**를 사용합니다.
+
+```javascript
+<script>
+  var now = new Date()
+  var display = new.toLocaleToString();
+  document.write("현재 시각은 " + display);
+</script>
+```
+코드입력 
