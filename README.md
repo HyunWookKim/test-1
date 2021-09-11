@@ -69,9 +69,9 @@
 한줄 소스코드는 **백쿼트(backquote - `)** 를 사용합니다.
 
 예를 들어 라애과 같이
-`function add(x, y) { return x + y; }`
+`function add(x, y) { return x + y; }` 사용합니다.
 
-여러줄의 소스코드는 **백쿼트 세개(```)**를 사용합니다.
+여러줄의 소스코드는 ___백쿼트 세개(```)___를 사용합니다.
 
 ```javascript
 <script>
