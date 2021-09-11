@@ -71,7 +71,7 @@
 예를 들어 라애과 같이
 `function add(x, y) { return x + y; }` 사용합니다.
 
-여러줄의 소스코드는 ___백쿼트 세개(```)___를 사용합니다.
+여러줄의 소스코드는
 
 ```javascript
 <script>
@@ -80,4 +80,20 @@
   document.write("현재 시각은 " + display);
 </script>
 ```
-코드입력 
+코드입력 완료
+
+## 링크 추가 하기.
+
+```
+<http://www.easysub.co.kr>
+
+[이지퍼블리싱](http://www.easysub.co.kr)
+
+[구글] (https://goopgle.com, "검색사이트")
+```
+
+<http://www.easysub.co.kr>
+
+[이지퍼블리싱](http://www.easysub.co.kr)
+
+[구글](https://goopgle.com, "검색사이트")
